@@ -12,4 +12,6 @@ Repository with midudev's aventjs challenges
 
 - Day 4: [Challenge #4](https://github.com/harguello92/advent-js-2023/tree/main/Challenge%20%234)
 
-- Day 5: [Challenge #4](https://github.com/harguello92/advent-js-2023/tree/main/Challenge%20%235)
+- Day 5: [Challenge #5](https://github.com/harguello92/advent-js-2023/tree/main/Challenge%20%235)
+
+- Day 6: [Challenge #6](https://github.com/harguello92/advent-js-2023/tree/main/Challenge%20%236)
